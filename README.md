@@ -2,8 +2,14 @@
 
 http://overpass-turbo.eu/
 
-Wizard
+**Wizard**
+
 name='Buss 66: Sofia - Reimersholme'
 
-Export 
+**Export**
+
 geojson
+
+
+**Links**
+http://wiki.openstreetmap.org/wiki/WikiProject_Sweden/Public_transport/Storstockholms_lokaltrafik#Stockholms_innerstad
