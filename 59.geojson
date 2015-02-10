@@ -1,3768 +1,3768 @@
 {
-type: "FeatureCollection",
-generator: "overpass-turbo",
-copyright: "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-timestamp: "2015-02-04T19:12:02Z",
-features: [
-{
-type: "Feature",
-id: "way/30130557",
-properties: {
-@id: "way/30130557",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0314542,
-59.3528843
-],
-[
-18.0320452,
-59.3529935
-],
-[
-18.0324296,
-59.3530728
-],
-[
-18.0325622,
-59.3531164
-],
-[
-18.03263,
-59.3531683
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/42974946",
-properties: {
-@id: "way/42974946",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0335986,
-59.35394
-],
-[
-18.0329452,
-59.3538415
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/42974948",
-properties: {
-@id: "way/42974948",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.03263,
-59.3531683
-],
-[
-18.0326256,
-59.3532261
-],
-[
-18.032613,
-59.3533367
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/193846781",
-properties: {
-@id: "way/193846781",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0326672,
-59.3536305
-],
-[
-18.0326901,
-59.3535678
-],
-[
-18.0326877,
-59.3534734
-],
-[
-18.032613,
-59.3533367
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/233761092",
-properties: {
-@id: "way/233761092",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0329452,
-59.3538415
-],
-[
-18.032867,
-59.3538641
-],
-[
-18.0327807,
-59.3538713
-],
-[
-18.0326409,
-59.3538483
-],
-[
-18.0325745,
-59.3538135
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/273574619",
-properties: {
-@id: "way/273574619",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0325865,
-59.3536649
-],
-[
-18.0326421,
-59.3536382
-],
-[
-18.0326672,
-59.3536305
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/273574620",
-properties: {
-@id: "way/273574620",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0325745,
-59.3538135
-],
-[
-18.0325465,
-59.353784
-],
-[
-18.0325361,
-59.3537253
-],
-[
-18.0325865,
-59.3536649
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/66696125",
-properties: {
-@id: "way/66696125",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0388287,
-59.3544034
-],
-[
-18.0386517,
-59.3544994
-],
-[
-18.0384781,
-59.3545705
-],
-[
-18.0382901,
-59.3546176
-],
-[
-18.0380122,
-59.3546431
-],
-[
-18.037707,
-59.3546448
-],
-[
-18.0372811,
-59.3545982
-],
-[
-18.0367913,
-59.3544986
-],
-[
-18.0360947,
-59.3543569
-],
-[
-18.0350579,
-59.3541473
-],
-[
-18.0335986,
-59.35394
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/42975453",
-properties: {
-@id: "way/42975453",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0809698,
-59.3124532
-],
-[
-18.081251,
-59.3119134
-],
-[
-18.0815002,
-59.3114083
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/42975463",
-properties: {
-@id: "way/42975463",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0810447,
-59.3124636
-],
-[
-18.0826403,
-59.3126664
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/42980009",
-properties: {
-@id: "way/42980009",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0813736,
-59.3151626
-],
-[
-18.0814124,
-59.3150875
-],
-[
-18.0816998,
-59.3145312
-],
-[
-18.081856,
-59.3142287
-],
-[
-18.0820019,
-59.3139463
-],
-[
-18.082329,
-59.3132867
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/238036066",
-properties: {
-@id: "way/238036066",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0897296,
-59.308326
-],
-[
-18.0889702,
-59.3086283
-],
-[
-18.0884136,
-59.3088499
-],
-[
-18.0876334,
-59.3091605
-],
-[
-18.0872643,
-59.3093074
-],
-[
-18.0867763,
-59.3095016
-],
-[
-18.086661,
-59.3095181
-],
-[
-18.0864947,
-59.3094975
-],
-[
-18.086323,
-59.3094739
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/233761090",
-properties: {
-@id: "way/233761090",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0809698,
-59.3124532
-],
-[
-18.0810447,
-59.3124636
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/41475283",
-properties: {
-@id: "way/41475283",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0815002,
-59.3114083
-],
-[
-18.0815725,
-59.311353
-],
-[
-18.0816311,
-59.3112482
-],
-[
-18.0816828,
-59.3111381
-],
-[
-18.0817006,
-59.3110753
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/42501590",
-properties: {
-@id: "way/42501590",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0855508,
-59.3097846
-],
-[
-18.0853419,
-59.309718
-],
-[
-18.0832668,
-59.3090829
-],
-[
-18.0830075,
-59.3089987
-],
-[
-18.0828109,
-59.3089372
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/42975452",
-properties: {
-@id: "way/42975452",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0855508,
-59.3097846
-],
-[
-18.0856747,
-59.3097329
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/42975465",
-properties: {
-@id: "way/42975465",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.082329,
-59.3132867
-],
-[
-18.0826403,
-59.3126664
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/57962307",
-properties: {
-@id: "way/57962307",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0817118,
-59.3110483
-],
-[
-18.0817215,
-59.3109925
-],
-[
-18.082027,
-59.3103915
-],
-[
-18.0820855,
-59.3102986
-],
-[
-18.0826839,
-59.3091095
-],
-[
-18.0827185,
-59.3090446
-],
-[
-18.0828109,
-59.3089372
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/60413350",
-properties: {
-@id: "way/60413350",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0817006,
-59.3110753
-],
-[
-18.0817118,
-59.3110483
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/233761079",
-properties: {
-@id: "way/233761079",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0856747,
-59.3097329
-],
-[
-18.085782,
-59.3096891
-],
-[
-18.0860758,
-59.309567
-],
-[
-18.086323,
-59.3094739
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/43066779",
-properties: {
-@id: "way/43066779",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0922331,
-59.3083672
-],
-[
-18.0922001,
-59.3083323
-],
-[
-18.0921169,
-59.3082933
-],
-[
-18.0910072,
-59.3080329
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/183743116",
-properties: {
-@id: "way/183743116",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0906472,
-59.3079608
-],
-[
-18.0897296,
-59.308326
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/250434511",
-properties: {
-@id: "way/250434511",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0910072,
-59.3080329
-],
-[
-18.090738,
-59.3079648
-],
-[
-18.0906472,
-59.3079608
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/23000195",
-properties: {
-@id: "way/23000195",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0636639,
-59.3264163
-],
-[
-18.0621923,
-59.3271884
-],
-[
-18.0606689,
-59.3279922
-],
-[
-18.0605257,
-59.328085
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/4830965",
-properties: {
-@id: "way/4830965",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0605257,
-59.328085
-],
-[
-18.0602927,
-59.3282413
-],
-[
-18.0600959,
-59.3284377
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/34344433",
-properties: {
-@id: "way/34344433",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0593571,
-59.3313628
-],
-[
-18.0599586,
-59.3315059
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/35477774",
-properties: {
-@id: "way/35477774",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0600959,
-59.3284377
-],
-[
-18.0598716,
-59.3287664
-],
-[
-18.0598111,
-59.3288564
-],
-[
-18.0597368,
-59.3289342
-],
-[
-18.059651,
-59.3289979
-],
-[
-18.0595146,
-59.3290754
-],
-[
-18.0593389,
-59.329123
-],
-[
-18.05914,
-59.3291498
-],
-[
-18.0589674,
-59.3291543
-],
-[
-18.058785,
-59.3291467
-],
-[
-18.0583437,
-59.3290616
-],
-[
-18.0577415,
-59.3289026
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/41574225",
-properties: {
-@id: "way/41574225",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0599586,
-59.3315059
-],
-[
-18.0606516,
-59.3316809
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/27343707",
-properties: {
-@id: "way/27343707",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0577415,
-59.3289026
-],
-[
-18.0575171,
-59.3288812
-],
-[
-18.0573329,
-59.3288691
-],
-[
-18.0571739,
-59.328878
-],
-[
-18.057013,
-59.3289035
-],
-[
-18.0567888,
-59.3289686
-],
-[
-18.0550808,
-59.3295011
-],
-[
-18.055008,
-59.3295372
-],
-[
-18.0548658,
-59.3296255
-],
-[
-18.0546283,
-59.3298658
-],
-[
-18.0544392,
-59.3300692
-],
-[
-18.0543853,
-59.3301278
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/42975208",
-properties: {
-@id: "way/42975208",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0543853,
-59.3301278
-],
-[
-18.0553756,
-59.3303738
-],
-[
-18.0556279,
-59.3304364
-],
-[
-18.056351,
-59.3306161
-],
-[
-18.0564759,
-59.3306471
-],
-[
-18.0575542,
-59.3309149
-],
-[
-18.057797,
-59.3309752
-],
-[
-18.0593571,
-59.3313628
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/88920324",
-properties: {
-@id: "way/88920324",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0606516,
-59.3316809
-],
-[
-18.0608595,
-59.331732
-],
-[
-18.0619459,
-59.3319991
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/121854793",
-properties: {
-@id: "way/121854793",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0631847,
-59.3360038
-],
-[
-18.0630901,
-59.3360948
-],
-[
-18.0627552,
-59.3364351
-],
-[
-18.0626879,
-59.3365088
-],
-[
-18.0626416,
-59.3365596
-],
-[
-18.0626244,
-59.3365784
-],
-[
-18.0625575,
-59.3366519
-],
-[
-18.0616926,
-59.3375597
-],
-[
-18.061618,
-59.3376379
-],
-[
-18.061521,
-59.3377432
-],
-[
-18.0613532,
-59.3379259
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/122041454",
-properties: {
-@id: "way/122041454",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0613532,
-59.3379259
-],
-[
-18.0605911,
-59.3387362
-],
-[
-18.0605354,
-59.3387964
-],
-[
-18.0599268,
-59.3394109
-],
-[
-18.0598306,
-59.3395214
-],
-[
-18.0597506,
-59.3396066
-],
-[
-18.0590308,
-59.3403654
-],
-[
-18.0589391,
-59.3404659
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/22946305",
-properties: {
-@id: "way/22946305",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0725403,
-59.3156754
-],
-[
-18.0724817,
-59.3156778
-],
-[
-18.0724189,
-59.3156748
-],
-[
-18.071573,
-59.3155592
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/27351663",
-properties: {
-@id: "way/27351663",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.071573,
-59.3155592
-],
-[
-18.0713311,
-59.3155623
-],
-[
-18.0711666,
-59.3156159
-],
-[
-18.0706468,
-59.3162488
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/42975277",
-properties: {
-@id: "way/42975277",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0706468,
-59.3162488
-],
-[
-18.0692418,
-59.3190372
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/141258077",
-properties: {
-@id: "way/141258077",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0734334,
-59.3142509
-],
-[
-18.0733875,
-59.3143484
-],
-[
-18.0732175,
-59.314715
-],
-[
-18.0731862,
-59.3147707
-],
-[
-18.0731196,
-59.3148229
-],
-[
-18.0730509,
-59.3148898
-],
-[
-18.0728533,
-59.3152973
-],
-[
-18.0727189,
-59.3155576
-],
-[
-18.0726614,
-59.3156362
-],
-[
-18.072615,
-59.3156594
-],
-[
-18.0725403,
-59.3156754
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/5788349",
-properties: {
-@id: "way/5788349",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0685593,
-59.3205155
-],
-[
-18.0682626,
-59.3209761
-],
-[
-18.0680676,
-59.3213069
-],
-[
-18.0679234,
-59.3216032
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/121541577",
-properties: {
-@id: "way/121541577",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0692418,
-59.3190372
-],
-[
-18.0685593,
-59.3205155
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/136886858",
-properties: {
-@id: "way/136886858",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.081336,
-59.3152382
-],
-[
-18.0811436,
-59.3152145
-],
-[
-18.0797033,
-59.3150368
-],
-[
-18.0795179,
-59.3150163
-],
-[
-18.076625,
-59.3146386
-],
-[
-18.0764669,
-59.314618
-],
-[
-18.0762857,
-59.3145955
-],
-[
-18.073656,
-59.3142755
-],
-[
-18.0734334,
-59.3142509
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/4802609",
-properties: {
-@id: "way/4802609",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0672572,
-59.3227327
-],
-[
-18.0662685,
-59.3244405
-],
-[
-18.066061,
-59.3247175
-],
-[
-18.0655958,
-59.3251807
-],
-[
-18.0651247,
-59.3255417
-],
-[
-18.0647429,
-59.3258047
-],
-[
-18.0642243,
-59.3261175
-],
-[
-18.0636639,
-59.3264163
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/261818767",
-properties: {
-@id: "way/261818767",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0679234,
-59.3216032
-],
-[
-18.0672572,
-59.3227327
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/136886859",
-properties: {
-@id: "way/136886859",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.081336,
-59.3152382
-],
-[
-18.0813736,
-59.3151626
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/80894035",
-properties: {
-@id: "way/80894035",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0630061,
-59.3322765
-],
-[
-18.0639599,
-59.3325183
-],
-[
-18.0640663,
-59.3325397
-],
-[
-18.0641788,
-59.3325499
-],
-[
-18.0642882,
-59.3325488
-],
-[
-18.0644182,
-59.3325328
-],
-[
-18.0645003,
-59.332511
-],
-[
-18.0646023,
-59.3324814
-],
-[
-18.0646812,
-59.3324599
-],
-[
-18.0648118,
-59.3324156
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/121536294",
-properties: {
-@id: "way/121536294",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0619459,
-59.3319991
-],
-[
-18.0630061,
-59.3322765
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/167816642",
-properties: {
-@id: "way/167816642",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0656808,
-59.3326577
-],
-[
-18.0656588,
-59.3326881
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/167816643",
-properties: {
-@id: "way/167816643",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0648118,
-59.3324156
-],
-[
-18.0648558,
-59.3323909
-],
-[
-18.0649007,
-59.3323714
-],
-[
-18.0649568,
-59.3323526
-],
-[
-18.0650423,
-59.3323332
-],
-[
-18.0651157,
-59.3323237
-],
-[
-18.0651926,
-59.33232
-],
-[
-18.0652833,
-59.3323235
-],
-[
-18.0653399,
-59.3323301
-],
-[
-18.0654346,
-59.3323497
-],
-[
-18.0654964,
-59.3323696
-],
-[
-18.0655434,
-59.3323897
-],
-[
-18.0655935,
-59.3324178
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/177560544",
-properties: {
-@id: "way/177560544",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0655935,
-59.3324178
-],
-[
-18.0656471,
-59.3324615
-],
-[
-18.0656705,
-59.3324899
-],
-[
-18.0656899,
-59.332527
-],
-[
-18.0656981,
-59.3325637
-],
-[
-18.0656969,
-59.3325938
-],
-[
-18.0656974,
-59.3326243
-],
-[
-18.0656808,
-59.3326577
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/4700201",
-properties: {
-@id: "way/4700201",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0656588,
-59.3326881
-],
-[
-18.0656763,
-59.3327523
-],
-[
-18.0656435,
-59.3328754
-],
-[
-18.065496,
-59.333102
-],
-[
-18.0652868,
-59.3334347
-],
-[
-18.0648964,
-59.3340086
-],
-[
-18.0646573,
-59.3343719
-],
-[
-18.0645587,
-59.3344714
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/20153356",
-properties: {
-@id: "way/20153356",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0645587,
-59.3344714
-],
-[
-18.0643117,
-59.3348643
-],
-[
-18.0642068,
-59.335031
-],
-[
-18.0638373,
-59.3354077
-],
-[
-18.0636814,
-59.3355595
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/39691471",
-properties: {
-@id: "way/39691471",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0636814,
-59.3355595
-],
-[
-18.0635551,
-59.3356855
-],
-[
-18.0632481,
-59.3359468
-],
-[
-18.0631847,
-59.3360038
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/4491159",
-properties: {
-@id: "way/4491159",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0489488,
-59.3503629
-],
-[
-18.048702,
-59.3503464
-],
-[
-18.0472234,
-59.3502328
-],
-[
-18.0468129,
-59.3502166
-],
-[
-18.0465791,
-59.3502073
-],
-[
-18.0460268,
-59.3501927
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/76169023",
-properties: {
-@id: "way/76169023",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0426745,
-59.3509591
-],
-[
-18.0425681,
-59.3512078
-],
-[
-18.042432,
-59.3514531
-],
-[
-18.0421246,
-59.3516916
-],
-[
-18.0412455,
-59.3522695
-],
-[
-18.0399153,
-59.3530353
-],
-[
-18.0396426,
-59.3532425
-],
-[
-18.0393799,
-59.3534778
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/75465436",
-properties: {
-@id: "way/75465436",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0460268,
-59.3501927
-],
-[
-18.0451093,
-59.350211
-],
-[
-18.0445843,
-59.3502517
-],
-[
-18.0440973,
-59.3503558
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/291464502",
-properties: {
-@id: "way/291464502",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0440973,
-59.3503558
-],
-[
-18.0435136,
-59.3504984
-],
-[
-18.0431744,
-59.3506426
-],
-[
-18.0429056,
-59.3507753
-],
-[
-18.0426745,
-59.3509591
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/39093604",
-properties: {
-@id: "way/39093604",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0589391,
-59.3404659
-],
-[
-18.0588615,
-59.3405468
-],
-[
-18.0580245,
-59.3414466
-],
-[
-18.0579425,
-59.3415308
-],
-[
-18.057314,
-59.3422018
-],
-[
-18.0572419,
-59.342278
-],
-[
-18.0564788,
-59.3430961
-],
-[
-18.0564386,
-59.3431361
-],
-[
-18.0557399,
-59.3439167
-],
-[
-18.0556764,
-59.3439819
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/130381254",
-properties: {
-@id: "way/130381254",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0556764,
-59.3439819
-],
-[
-18.0556201,
-59.3440351
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/200149905",
-properties: {
-@id: "way/200149905",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0556201,
-59.3440351
-],
-[
-18.0555602,
-59.3440865
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/304085544",
-properties: {
-@id: "way/304085544",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0555602,
-59.3440865
-],
-[
-18.055493,
-59.3441604
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/363453",
-properties: {
-@id: "way/363453",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.055493,
-59.3441604
-],
-[
-18.0549988,
-59.3446735
-],
-[
-18.0549355,
-59.3447395
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/130381255",
-properties: {
-@id: "way/130381255",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0549355,
-59.3447395
-],
-[
-18.0548711,
-59.3448086
-],
-[
-18.0541275,
-59.345597
-],
-[
-18.0534263,
-59.3463285
-],
-[
-18.0533574,
-59.346401
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/42105884",
-properties: {
-@id: "way/42105884",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0504039,
-59.349973
-],
-[
-18.0503263,
-59.3501659
-],
-[
-18.0502672,
-59.3502301
-],
-[
-18.0501354,
-59.3502978
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/42974938",
-properties: {
-@id: "way/42974938",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0501354,
-59.3502978
-],
-[
-18.0496135,
-59.350358
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/43065375",
-properties: {
-@id: "way/43065375",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0503588,
-59.3498945
-],
-[
-18.0504039,
-59.349973
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/130381249",
-properties: {
-@id: "way/130381249",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0533574,
-59.346401
-],
-[
-18.0532902,
-59.34648
-],
-[
-18.0528511,
-59.3469458
-],
-[
-18.0524634,
-59.3473584
-],
-[
-18.0519008,
-59.3479568
-],
-[
-18.0517793,
-59.3480865
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/212456661",
-properties: {
-@id: "way/212456661",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0517793,
-59.3480865
-],
-[
-18.0516656,
-59.3482162
-],
-[
-18.0504264,
-59.3495251
-],
-[
-18.0503445,
-59.3496276
-],
-[
-18.0503229,
-59.3496862
-],
-[
-18.0503214,
-59.3497514
-],
-[
-18.0503588,
-59.3498945
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/212472724",
-properties: {
-@id: "way/212472724",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0496135,
-59.350358
-],
-[
-18.0494198,
-59.3503782
-],
-[
-18.0492282,
-59.3503772
-],
-[
-18.0489488,
-59.3503629
-]
-]
-}
-},
-{
-type: "Feature",
-id: "way/200149907",
-properties: {
-@id: "way/200149907",
-@relations: [
-{
-role: "",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "LineString",
-coordinates: [
-[
-18.0393799,
-59.3534778
-],
-[
-18.0391636,
-59.3537279
-],
-[
-18.0390597,
-59.354107
-],
-[
-18.0388287,
-59.3544034
-]
-]
-}
-},
-{
-type: "Feature",
-id: "node/377725775",
-properties: {
-@id: "node/377725775",
-@relations: [
-{
-role: "stop",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "Point",
-coordinates: [
-18.0316872,
-59.3529632
-]
-}
-},
-{
-type: "Feature",
-id: "node/1580943082",
-properties: {
-@id: "node/1580943082",
-@relations: [
-{
-role: "stop",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "Point",
-coordinates: [
-18.0814364,
-59.3117618
-]
-}
-},
-{
-type: "Feature",
-id: "node/1600236871",
-properties: {
-@id: "node/1600236871",
-@relations: [
-{
-role: "stop",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "Point",
-coordinates: [
-18.0826954,
-59.3093125
-]
-}
-},
-{
-type: "Feature",
-id: "node/676898815",
-properties: {
-@id: "node/676898815",
-@relations: [
-{
-role: "stop",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "Point",
-coordinates: [
-18.0900556,
-59.3082556
-]
-}
-},
-{
-type: "Feature",
-id: "node/1657737900",
-properties: {
-@id: "node/1657737900",
-@relations: [
-{
-role: "stop",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "Point",
-coordinates: [
-18.0919953,
-59.3084498
-]
-}
-},
-{
-type: "Feature",
-id: "node/472644577",
-properties: {
-@id: "node/472644577",
-@relations: [
-{
-role: "stop",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "Point",
-coordinates: [
-18.0573143,
-59.3307773
-]
-}
-},
-{
-type: "Feature",
-id: "node/1431277161",
-properties: {
-@id: "node/1431277161",
-@relations: [
-{
-role: "stop",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "Point",
-coordinates: [
-18.0613382,
-59.3380746
-]
-}
-},
-{
-type: "Feature",
-id: "node/719629885",
-properties: {
-@id: "node/719629885",
-@relations: [
-{
-role: "stop",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "Point",
-coordinates: [
-18.0730295,
-59.3151985
-]
-}
-},
-{
-type: "Feature",
-id: "node/672977877",
-properties: {
-@id: "node/672977877",
-@relations: [
-{
-role: "stop",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "Point",
-coordinates: [
-18.0806737,
-59.3151962
-]
-}
-},
-{
-type: "Feature",
-id: "node/672977895",
-properties: {
-@id: "node/672977895",
-@relations: [
-{
-role: "stop",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "Point",
-coordinates: [
-18.0749964,
-59.3144785
-]
-}
-},
-{
-type: "Feature",
-id: "node/672977882",
-properties: {
-@id: "node/672977882",
-@relations: [
-{
-role: "stop",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "Point",
-coordinates: [
-18.0823089,
-59.3134727
-]
-}
-},
-{
-type: "Feature",
-id: "node/1363066694",
-properties: {
-@id: "node/1363066694",
-@relations: [
-{
-role: "stop",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "Point",
-coordinates: [
-18.0634523,
-59.335889
-]
-}
-},
-{
-type: "Feature",
-id: "node/2824740258",
-properties: {
-@id: "node/2824740258",
-@relations: [
-{
-role: "stop",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "Point",
-coordinates: [
-18.0649542,
-59.3341572
-]
-}
-},
-{
-type: "Feature",
-id: "node/279785980",
-properties: {
-@id: "node/279785980",
-@relations: [
-{
-role: "stop",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "Point",
-coordinates: [
-18.0483392,
-59.3503844
-]
-}
-},
-{
-type: "Feature",
-id: "node/377708405",
-properties: {
-@id: "node/377708405",
-@relations: [
-{
-role: "stop",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "Point",
-coordinates: [
-18.0455495,
-59.3503276
-]
-}
-},
-{
-type: "Feature",
-id: "node/503503226",
-properties: {
-@id: "node/503503226",
-@relations: [
-{
-role: "stop",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "Point",
-coordinates: [
-18.0552485,
-59.3445576
-]
-}
-},
-{
-type: "Feature",
-id: "node/503503236",
-properties: {
-@id: "node/503503236",
-@relations: [
-{
-role: "stop",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "Point",
-coordinates: [
-18.0574642,
-59.3421848
-]
-}
-},
-{
-type: "Feature",
-id: "node/1431277321",
-properties: {
-@id: "node/1431277321",
-@relations: [
-{
-role: "stop",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "Point",
-coordinates: [
-18.0593394,
-59.3401768
-]
-}
-},
-{
-type: "Feature",
-id: "node/750851464",
-properties: {
-@id: "node/750851464",
-@relations: [
-{
-role: "stop",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "Point",
-coordinates: [
-18.0531,
-59.3468552
-]
-}
-},
-{
-type: "Feature",
-id: "node/1436224085",
-properties: {
-@id: "node/1436224085",
-@relations: [
-{
-role: "stop",
-rel: 3147453,
-reltags: {
-from: "Norra Hammarbyhamnen",
-name: "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
-network: "SL",
-ref: "59",
-route: "bus",
-to: "Karolinska sjukhuset",
-type: "route"
-}
-}
-]
-},
-geometry: {
-type: "Point",
-coordinates: [
-18.0507742,
-59.3493686
-]
-}
-}
-]
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-02-10T19:36:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/30130557",
+      "properties": {
+        "@id": "way/30130557",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0314542,
+            59.3528843
+          ],
+          [
+            18.0320452,
+            59.3529935
+          ],
+          [
+            18.0324296,
+            59.3530728
+          ],
+          [
+            18.0325622,
+            59.3531164
+          ],
+          [
+            18.03263,
+            59.3531683
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42974946",
+      "properties": {
+        "@id": "way/42974946",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0335986,
+            59.35394
+          ],
+          [
+            18.0329452,
+            59.3538415
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42974948",
+      "properties": {
+        "@id": "way/42974948",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.03263,
+            59.3531683
+          ],
+          [
+            18.0326256,
+            59.3532261
+          ],
+          [
+            18.032613,
+            59.3533367
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/193846781",
+      "properties": {
+        "@id": "way/193846781",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0326672,
+            59.3536305
+          ],
+          [
+            18.0326901,
+            59.3535678
+          ],
+          [
+            18.0326877,
+            59.3534734
+          ],
+          [
+            18.032613,
+            59.3533367
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/233761092",
+      "properties": {
+        "@id": "way/233761092",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0329452,
+            59.3538415
+          ],
+          [
+            18.032867,
+            59.3538641
+          ],
+          [
+            18.0327807,
+            59.3538713
+          ],
+          [
+            18.0326409,
+            59.3538483
+          ],
+          [
+            18.0325745,
+            59.3538135
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/273574619",
+      "properties": {
+        "@id": "way/273574619",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0325865,
+            59.3536649
+          ],
+          [
+            18.0326421,
+            59.3536382
+          ],
+          [
+            18.0326672,
+            59.3536305
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/273574620",
+      "properties": {
+        "@id": "way/273574620",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0325745,
+            59.3538135
+          ],
+          [
+            18.0325465,
+            59.353784
+          ],
+          [
+            18.0325361,
+            59.3537253
+          ],
+          [
+            18.0325865,
+            59.3536649
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/66696125",
+      "properties": {
+        "@id": "way/66696125",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0388287,
+            59.3544034
+          ],
+          [
+            18.0386517,
+            59.3544994
+          ],
+          [
+            18.0384781,
+            59.3545705
+          ],
+          [
+            18.0382901,
+            59.3546176
+          ],
+          [
+            18.0380122,
+            59.3546431
+          ],
+          [
+            18.037707,
+            59.3546448
+          ],
+          [
+            18.0372811,
+            59.3545982
+          ],
+          [
+            18.0367913,
+            59.3544986
+          ],
+          [
+            18.0360947,
+            59.3543569
+          ],
+          [
+            18.0350579,
+            59.3541473
+          ],
+          [
+            18.0335986,
+            59.35394
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42975453",
+      "properties": {
+        "@id": "way/42975453",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0809698,
+            59.3124532
+          ],
+          [
+            18.081251,
+            59.3119134
+          ],
+          [
+            18.0815002,
+            59.3114083
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42975463",
+      "properties": {
+        "@id": "way/42975463",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0810447,
+            59.3124636
+          ],
+          [
+            18.0826403,
+            59.3126664
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42980009",
+      "properties": {
+        "@id": "way/42980009",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0813736,
+            59.3151626
+          ],
+          [
+            18.0814124,
+            59.3150875
+          ],
+          [
+            18.0816998,
+            59.3145312
+          ],
+          [
+            18.081856,
+            59.3142287
+          ],
+          [
+            18.0820019,
+            59.3139463
+          ],
+          [
+            18.082329,
+            59.3132867
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/238036066",
+      "properties": {
+        "@id": "way/238036066",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0897296,
+            59.308326
+          ],
+          [
+            18.0889702,
+            59.3086283
+          ],
+          [
+            18.0884136,
+            59.3088499
+          ],
+          [
+            18.0876334,
+            59.3091605
+          ],
+          [
+            18.0872643,
+            59.3093074
+          ],
+          [
+            18.0867763,
+            59.3095016
+          ],
+          [
+            18.086661,
+            59.3095181
+          ],
+          [
+            18.0864947,
+            59.3094975
+          ],
+          [
+            18.086323,
+            59.3094739
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/233761090",
+      "properties": {
+        "@id": "way/233761090",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0809698,
+            59.3124532
+          ],
+          [
+            18.0810447,
+            59.3124636
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/41475283",
+      "properties": {
+        "@id": "way/41475283",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0815002,
+            59.3114083
+          ],
+          [
+            18.0815725,
+            59.311353
+          ],
+          [
+            18.0816311,
+            59.3112482
+          ],
+          [
+            18.0816828,
+            59.3111381
+          ],
+          [
+            18.0817006,
+            59.3110753
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42501590",
+      "properties": {
+        "@id": "way/42501590",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0855508,
+            59.3097846
+          ],
+          [
+            18.0853419,
+            59.309718
+          ],
+          [
+            18.0832668,
+            59.3090829
+          ],
+          [
+            18.0830075,
+            59.3089987
+          ],
+          [
+            18.0828109,
+            59.3089372
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42975452",
+      "properties": {
+        "@id": "way/42975452",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0855508,
+            59.3097846
+          ],
+          [
+            18.0856747,
+            59.3097329
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42975465",
+      "properties": {
+        "@id": "way/42975465",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.082329,
+            59.3132867
+          ],
+          [
+            18.0826403,
+            59.3126664
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/57962307",
+      "properties": {
+        "@id": "way/57962307",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0817118,
+            59.3110483
+          ],
+          [
+            18.0817215,
+            59.3109925
+          ],
+          [
+            18.082027,
+            59.3103915
+          ],
+          [
+            18.0820855,
+            59.3102986
+          ],
+          [
+            18.0826839,
+            59.3091095
+          ],
+          [
+            18.0827185,
+            59.3090446
+          ],
+          [
+            18.0828109,
+            59.3089372
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/60413350",
+      "properties": {
+        "@id": "way/60413350",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0817006,
+            59.3110753
+          ],
+          [
+            18.0817118,
+            59.3110483
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/233761079",
+      "properties": {
+        "@id": "way/233761079",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0856747,
+            59.3097329
+          ],
+          [
+            18.085782,
+            59.3096891
+          ],
+          [
+            18.0860758,
+            59.309567
+          ],
+          [
+            18.086323,
+            59.3094739
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43066779",
+      "properties": {
+        "@id": "way/43066779",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0922331,
+            59.3083672
+          ],
+          [
+            18.0922001,
+            59.3083323
+          ],
+          [
+            18.0921169,
+            59.3082933
+          ],
+          [
+            18.0910072,
+            59.3080329
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183743116",
+      "properties": {
+        "@id": "way/183743116",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0906472,
+            59.3079608
+          ],
+          [
+            18.0897296,
+            59.308326
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/250434511",
+      "properties": {
+        "@id": "way/250434511",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0910072,
+            59.3080329
+          ],
+          [
+            18.090738,
+            59.3079648
+          ],
+          [
+            18.0906472,
+            59.3079608
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23000195",
+      "properties": {
+        "@id": "way/23000195",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0636639,
+            59.3264163
+          ],
+          [
+            18.0621923,
+            59.3271884
+          ],
+          [
+            18.0606689,
+            59.3279922
+          ],
+          [
+            18.0605257,
+            59.328085
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/4830965",
+      "properties": {
+        "@id": "way/4830965",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0605257,
+            59.328085
+          ],
+          [
+            18.0602927,
+            59.3282413
+          ],
+          [
+            18.0600959,
+            59.3284377
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34344433",
+      "properties": {
+        "@id": "way/34344433",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0593571,
+            59.3313628
+          ],
+          [
+            18.0599586,
+            59.3315059
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/35477774",
+      "properties": {
+        "@id": "way/35477774",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0600959,
+            59.3284377
+          ],
+          [
+            18.0598716,
+            59.3287664
+          ],
+          [
+            18.0598111,
+            59.3288564
+          ],
+          [
+            18.0597368,
+            59.3289342
+          ],
+          [
+            18.059651,
+            59.3289979
+          ],
+          [
+            18.0595146,
+            59.3290754
+          ],
+          [
+            18.0593389,
+            59.329123
+          ],
+          [
+            18.05914,
+            59.3291498
+          ],
+          [
+            18.0589674,
+            59.3291543
+          ],
+          [
+            18.058785,
+            59.3291467
+          ],
+          [
+            18.0583437,
+            59.3290616
+          ],
+          [
+            18.0577415,
+            59.3289026
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/41574225",
+      "properties": {
+        "@id": "way/41574225",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0599586,
+            59.3315059
+          ],
+          [
+            18.0606516,
+            59.3316809
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27343707",
+      "properties": {
+        "@id": "way/27343707",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0577415,
+            59.3289026
+          ],
+          [
+            18.0575171,
+            59.3288812
+          ],
+          [
+            18.0573329,
+            59.3288691
+          ],
+          [
+            18.0571739,
+            59.328878
+          ],
+          [
+            18.057013,
+            59.3289035
+          ],
+          [
+            18.0567888,
+            59.3289686
+          ],
+          [
+            18.0550808,
+            59.3295011
+          ],
+          [
+            18.055008,
+            59.3295372
+          ],
+          [
+            18.0548658,
+            59.3296255
+          ],
+          [
+            18.0546283,
+            59.3298658
+          ],
+          [
+            18.0544392,
+            59.3300692
+          ],
+          [
+            18.0543853,
+            59.3301278
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42975208",
+      "properties": {
+        "@id": "way/42975208",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0543853,
+            59.3301278
+          ],
+          [
+            18.0553756,
+            59.3303738
+          ],
+          [
+            18.0556279,
+            59.3304364
+          ],
+          [
+            18.056351,
+            59.3306161
+          ],
+          [
+            18.0564759,
+            59.3306471
+          ],
+          [
+            18.0575542,
+            59.3309149
+          ],
+          [
+            18.057797,
+            59.3309752
+          ],
+          [
+            18.0593571,
+            59.3313628
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/88920324",
+      "properties": {
+        "@id": "way/88920324",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0606516,
+            59.3316809
+          ],
+          [
+            18.0608595,
+            59.331732
+          ],
+          [
+            18.0619459,
+            59.3319991
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/121854793",
+      "properties": {
+        "@id": "way/121854793",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0631847,
+            59.3360038
+          ],
+          [
+            18.0630901,
+            59.3360948
+          ],
+          [
+            18.0627552,
+            59.3364351
+          ],
+          [
+            18.0626879,
+            59.3365088
+          ],
+          [
+            18.0626416,
+            59.3365596
+          ],
+          [
+            18.0626244,
+            59.3365784
+          ],
+          [
+            18.0625575,
+            59.3366519
+          ],
+          [
+            18.0616926,
+            59.3375597
+          ],
+          [
+            18.061618,
+            59.3376379
+          ],
+          [
+            18.061521,
+            59.3377432
+          ],
+          [
+            18.0613532,
+            59.3379259
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/122041454",
+      "properties": {
+        "@id": "way/122041454",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0613532,
+            59.3379259
+          ],
+          [
+            18.0605911,
+            59.3387362
+          ],
+          [
+            18.0605354,
+            59.3387964
+          ],
+          [
+            18.0599268,
+            59.3394109
+          ],
+          [
+            18.0598306,
+            59.3395214
+          ],
+          [
+            18.0597506,
+            59.3396066
+          ],
+          [
+            18.0590308,
+            59.3403654
+          ],
+          [
+            18.0589391,
+            59.3404659
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/22946305",
+      "properties": {
+        "@id": "way/22946305",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0725403,
+            59.3156754
+          ],
+          [
+            18.0724817,
+            59.3156778
+          ],
+          [
+            18.0724189,
+            59.3156748
+          ],
+          [
+            18.071573,
+            59.3155592
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27351663",
+      "properties": {
+        "@id": "way/27351663",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.071573,
+            59.3155592
+          ],
+          [
+            18.0713311,
+            59.3155623
+          ],
+          [
+            18.0711666,
+            59.3156159
+          ],
+          [
+            18.0706468,
+            59.3162488
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42975277",
+      "properties": {
+        "@id": "way/42975277",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0706468,
+            59.3162488
+          ],
+          [
+            18.0692418,
+            59.3190372
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/141258077",
+      "properties": {
+        "@id": "way/141258077",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0734334,
+            59.3142509
+          ],
+          [
+            18.0733875,
+            59.3143484
+          ],
+          [
+            18.0732175,
+            59.314715
+          ],
+          [
+            18.0731862,
+            59.3147707
+          ],
+          [
+            18.0731196,
+            59.3148229
+          ],
+          [
+            18.0730509,
+            59.3148898
+          ],
+          [
+            18.0728533,
+            59.3152973
+          ],
+          [
+            18.0727189,
+            59.3155576
+          ],
+          [
+            18.0726614,
+            59.3156362
+          ],
+          [
+            18.072615,
+            59.3156594
+          ],
+          [
+            18.0725403,
+            59.3156754
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/5788349",
+      "properties": {
+        "@id": "way/5788349",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0685593,
+            59.3205155
+          ],
+          [
+            18.0682626,
+            59.3209761
+          ],
+          [
+            18.0680676,
+            59.3213069
+          ],
+          [
+            18.0679234,
+            59.3216032
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/121541577",
+      "properties": {
+        "@id": "way/121541577",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0692418,
+            59.3190372
+          ],
+          [
+            18.0685593,
+            59.3205155
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/136886858",
+      "properties": {
+        "@id": "way/136886858",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.081336,
+            59.3152382
+          ],
+          [
+            18.0811436,
+            59.3152145
+          ],
+          [
+            18.0797033,
+            59.3150368
+          ],
+          [
+            18.0795179,
+            59.3150163
+          ],
+          [
+            18.076625,
+            59.3146386
+          ],
+          [
+            18.0764669,
+            59.314618
+          ],
+          [
+            18.0762857,
+            59.3145955
+          ],
+          [
+            18.073656,
+            59.3142755
+          ],
+          [
+            18.0734334,
+            59.3142509
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/4802609",
+      "properties": {
+        "@id": "way/4802609",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0672572,
+            59.3227327
+          ],
+          [
+            18.0662685,
+            59.3244405
+          ],
+          [
+            18.066061,
+            59.3247175
+          ],
+          [
+            18.0655958,
+            59.3251807
+          ],
+          [
+            18.0651247,
+            59.3255417
+          ],
+          [
+            18.0647429,
+            59.3258047
+          ],
+          [
+            18.0642243,
+            59.3261175
+          ],
+          [
+            18.0636639,
+            59.3264163
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/261818767",
+      "properties": {
+        "@id": "way/261818767",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0679234,
+            59.3216032
+          ],
+          [
+            18.0672572,
+            59.3227327
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/136886859",
+      "properties": {
+        "@id": "way/136886859",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.081336,
+            59.3152382
+          ],
+          [
+            18.0813736,
+            59.3151626
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/80894035",
+      "properties": {
+        "@id": "way/80894035",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0630061,
+            59.3322765
+          ],
+          [
+            18.0639599,
+            59.3325183
+          ],
+          [
+            18.0640663,
+            59.3325397
+          ],
+          [
+            18.0641788,
+            59.3325499
+          ],
+          [
+            18.0642882,
+            59.3325488
+          ],
+          [
+            18.0644182,
+            59.3325328
+          ],
+          [
+            18.0645003,
+            59.332511
+          ],
+          [
+            18.0646023,
+            59.3324814
+          ],
+          [
+            18.0646812,
+            59.3324599
+          ],
+          [
+            18.0648118,
+            59.3324156
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/121536294",
+      "properties": {
+        "@id": "way/121536294",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0619459,
+            59.3319991
+          ],
+          [
+            18.0630061,
+            59.3322765
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/167816642",
+      "properties": {
+        "@id": "way/167816642",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0656808,
+            59.3326577
+          ],
+          [
+            18.0656588,
+            59.3326881
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/167816643",
+      "properties": {
+        "@id": "way/167816643",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0648118,
+            59.3324156
+          ],
+          [
+            18.0648558,
+            59.3323909
+          ],
+          [
+            18.0649007,
+            59.3323714
+          ],
+          [
+            18.0649568,
+            59.3323526
+          ],
+          [
+            18.0650423,
+            59.3323332
+          ],
+          [
+            18.0651157,
+            59.3323237
+          ],
+          [
+            18.0651926,
+            59.33232
+          ],
+          [
+            18.0652833,
+            59.3323235
+          ],
+          [
+            18.0653399,
+            59.3323301
+          ],
+          [
+            18.0654346,
+            59.3323497
+          ],
+          [
+            18.0654964,
+            59.3323696
+          ],
+          [
+            18.0655434,
+            59.3323897
+          ],
+          [
+            18.0655935,
+            59.3324178
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/177560544",
+      "properties": {
+        "@id": "way/177560544",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0655935,
+            59.3324178
+          ],
+          [
+            18.0656471,
+            59.3324615
+          ],
+          [
+            18.0656705,
+            59.3324899
+          ],
+          [
+            18.0656899,
+            59.332527
+          ],
+          [
+            18.0656981,
+            59.3325637
+          ],
+          [
+            18.0656969,
+            59.3325938
+          ],
+          [
+            18.0656974,
+            59.3326243
+          ],
+          [
+            18.0656808,
+            59.3326577
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/4700201",
+      "properties": {
+        "@id": "way/4700201",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0656588,
+            59.3326881
+          ],
+          [
+            18.0656763,
+            59.3327523
+          ],
+          [
+            18.0656435,
+            59.3328754
+          ],
+          [
+            18.065496,
+            59.333102
+          ],
+          [
+            18.0652868,
+            59.3334347
+          ],
+          [
+            18.0648964,
+            59.3340086
+          ],
+          [
+            18.0646573,
+            59.3343719
+          ],
+          [
+            18.0645587,
+            59.3344714
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/20153356",
+      "properties": {
+        "@id": "way/20153356",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0645587,
+            59.3344714
+          ],
+          [
+            18.0643117,
+            59.3348643
+          ],
+          [
+            18.0642068,
+            59.335031
+          ],
+          [
+            18.0638373,
+            59.3354077
+          ],
+          [
+            18.0636814,
+            59.3355595
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39691471",
+      "properties": {
+        "@id": "way/39691471",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0636814,
+            59.3355595
+          ],
+          [
+            18.0635551,
+            59.3356855
+          ],
+          [
+            18.0632481,
+            59.3359468
+          ],
+          [
+            18.0631847,
+            59.3360038
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/4491159",
+      "properties": {
+        "@id": "way/4491159",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0489488,
+            59.3503629
+          ],
+          [
+            18.048702,
+            59.3503464
+          ],
+          [
+            18.0472234,
+            59.3502328
+          ],
+          [
+            18.0468129,
+            59.3502166
+          ],
+          [
+            18.0465791,
+            59.3502073
+          ],
+          [
+            18.0460268,
+            59.3501927
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/76169023",
+      "properties": {
+        "@id": "way/76169023",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0426745,
+            59.3509591
+          ],
+          [
+            18.0425681,
+            59.3512078
+          ],
+          [
+            18.042432,
+            59.3514531
+          ],
+          [
+            18.0421246,
+            59.3516916
+          ],
+          [
+            18.0412455,
+            59.3522695
+          ],
+          [
+            18.0399153,
+            59.3530353
+          ],
+          [
+            18.0396426,
+            59.3532425
+          ],
+          [
+            18.0393799,
+            59.3534778
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/75465436",
+      "properties": {
+        "@id": "way/75465436",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0460268,
+            59.3501927
+          ],
+          [
+            18.0451093,
+            59.350211
+          ],
+          [
+            18.0445843,
+            59.3502517
+          ],
+          [
+            18.0440973,
+            59.3503558
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/291464502",
+      "properties": {
+        "@id": "way/291464502",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0440973,
+            59.3503558
+          ],
+          [
+            18.0435136,
+            59.3504984
+          ],
+          [
+            18.0431744,
+            59.3506426
+          ],
+          [
+            18.0429056,
+            59.3507753
+          ],
+          [
+            18.0426745,
+            59.3509591
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39093604",
+      "properties": {
+        "@id": "way/39093604",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0589391,
+            59.3404659
+          ],
+          [
+            18.0588615,
+            59.3405468
+          ],
+          [
+            18.0580245,
+            59.3414466
+          ],
+          [
+            18.0579425,
+            59.3415308
+          ],
+          [
+            18.057314,
+            59.3422018
+          ],
+          [
+            18.0572419,
+            59.342278
+          ],
+          [
+            18.0564788,
+            59.3430961
+          ],
+          [
+            18.0564386,
+            59.3431361
+          ],
+          [
+            18.0557399,
+            59.3439167
+          ],
+          [
+            18.0556764,
+            59.3439819
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/130381254",
+      "properties": {
+        "@id": "way/130381254",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0556764,
+            59.3439819
+          ],
+          [
+            18.0556201,
+            59.3440351
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/200149905",
+      "properties": {
+        "@id": "way/200149905",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0556201,
+            59.3440351
+          ],
+          [
+            18.0555602,
+            59.3440865
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/304085544",
+      "properties": {
+        "@id": "way/304085544",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0555602,
+            59.3440865
+          ],
+          [
+            18.055493,
+            59.3441604
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363453",
+      "properties": {
+        "@id": "way/363453",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.055493,
+            59.3441604
+          ],
+          [
+            18.0549988,
+            59.3446735
+          ],
+          [
+            18.0549355,
+            59.3447395
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/130381255",
+      "properties": {
+        "@id": "way/130381255",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0549355,
+            59.3447395
+          ],
+          [
+            18.0548711,
+            59.3448086
+          ],
+          [
+            18.0541275,
+            59.345597
+          ],
+          [
+            18.0534263,
+            59.3463285
+          ],
+          [
+            18.0533574,
+            59.346401
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42105884",
+      "properties": {
+        "@id": "way/42105884",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0504039,
+            59.349973
+          ],
+          [
+            18.0503263,
+            59.3501659
+          ],
+          [
+            18.0502672,
+            59.3502301
+          ],
+          [
+            18.0501354,
+            59.3502978
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42974938",
+      "properties": {
+        "@id": "way/42974938",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0501354,
+            59.3502978
+          ],
+          [
+            18.0496135,
+            59.350358
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43065375",
+      "properties": {
+        "@id": "way/43065375",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0503588,
+            59.3498945
+          ],
+          [
+            18.0504039,
+            59.349973
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/130381249",
+      "properties": {
+        "@id": "way/130381249",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0533574,
+            59.346401
+          ],
+          [
+            18.0532902,
+            59.34648
+          ],
+          [
+            18.0528511,
+            59.3469458
+          ],
+          [
+            18.0524634,
+            59.3473584
+          ],
+          [
+            18.0519008,
+            59.3479568
+          ],
+          [
+            18.0517793,
+            59.3480865
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/212456661",
+      "properties": {
+        "@id": "way/212456661",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0517793,
+            59.3480865
+          ],
+          [
+            18.0516656,
+            59.3482162
+          ],
+          [
+            18.0504264,
+            59.3495251
+          ],
+          [
+            18.0503445,
+            59.3496276
+          ],
+          [
+            18.0503229,
+            59.3496862
+          ],
+          [
+            18.0503214,
+            59.3497514
+          ],
+          [
+            18.0503588,
+            59.3498945
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/212472724",
+      "properties": {
+        "@id": "way/212472724",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0496135,
+            59.350358
+          ],
+          [
+            18.0494198,
+            59.3503782
+          ],
+          [
+            18.0492282,
+            59.3503772
+          ],
+          [
+            18.0489488,
+            59.3503629
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/200149907",
+      "properties": {
+        "@id": "way/200149907",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0393799,
+            59.3534778
+          ],
+          [
+            18.0391636,
+            59.3537279
+          ],
+          [
+            18.0390597,
+            59.354107
+          ],
+          [
+            18.0388287,
+            59.3544034
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/377725775",
+      "properties": {
+        "@id": "node/377725775",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0316872,
+          59.3529632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1580943082",
+      "properties": {
+        "@id": "node/1580943082",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0814364,
+          59.3117618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1600236871",
+      "properties": {
+        "@id": "node/1600236871",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0826954,
+          59.3093125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/676898815",
+      "properties": {
+        "@id": "node/676898815",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0900556,
+          59.3082556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1657737900",
+      "properties": {
+        "@id": "node/1657737900",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0919953,
+          59.3084498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/472644577",
+      "properties": {
+        "@id": "node/472644577",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0573143,
+          59.3307773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1431277161",
+      "properties": {
+        "@id": "node/1431277161",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0613382,
+          59.3380746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/719629885",
+      "properties": {
+        "@id": "node/719629885",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0730295,
+          59.3151985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/672977877",
+      "properties": {
+        "@id": "node/672977877",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0806737,
+          59.3151962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/672977895",
+      "properties": {
+        "@id": "node/672977895",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0749964,
+          59.3144785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/672977882",
+      "properties": {
+        "@id": "node/672977882",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0823089,
+          59.3134727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1363066694",
+      "properties": {
+        "@id": "node/1363066694",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0634523,
+          59.335889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2824740258",
+      "properties": {
+        "@id": "node/2824740258",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0649542,
+          59.3341572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/279785980",
+      "properties": {
+        "@id": "node/279785980",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0483392,
+          59.3503844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/377708405",
+      "properties": {
+        "@id": "node/377708405",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0455495,
+          59.3503276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/503503226",
+      "properties": {
+        "@id": "node/503503226",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0552485,
+          59.3445576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/503503236",
+      "properties": {
+        "@id": "node/503503236",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0574642,
+          59.3421848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1431277321",
+      "properties": {
+        "@id": "node/1431277321",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0593394,
+          59.3401768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/750851464",
+      "properties": {
+        "@id": "node/750851464",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0531,
+          59.3468552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1436224085",
+      "properties": {
+        "@id": "node/1436224085",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3147453,
+            "reltags": {
+              "from": "Norra Hammarbyhamnen",
+              "name": "Buss 59: Norra Hammarbyhamnen - Karolinska sjukhuset",
+              "network": "SL",
+              "ref": "59",
+              "route": "bus",
+              "to": "Karolinska sjukhuset",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0507742,
+          59.3493686
+        ]
+      }
+    }
+  ]
 }
