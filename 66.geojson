@@ -1,0 +1,3136 @@
+{
+type: "FeatureCollection",
+generator: "overpass-turbo",
+copyright: "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+timestamp: "2015-02-04T19:09:01Z",
+features: [
+{
+type: "Feature",
+id: "way/4518840",
+properties: {
+@id: "way/4518840",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0210707,
+59.3177609
+],
+[
+18.0209045,
+59.3178437
+],
+[
+18.0206061,
+59.317936
+],
+[
+18.0204382,
+59.317935
+],
+[
+18.020262,
+59.3178738
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/167102982",
+properties: {
+@id: "way/167102982",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0210707,
+59.3177609
+],
+[
+18.0220446,
+59.3179089
+],
+[
+18.0229614,
+59.3180283
+],
+[
+18.0237207,
+59.3181397
+],
+[
+18.0239246,
+59.3181717
+],
+[
+18.0241329,
+59.3182086
+],
+[
+18.0245909,
+59.3183129
+],
+[
+18.0254301,
+59.3185039
+],
+[
+18.0256042,
+59.3185398
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/4080984",
+properties: {
+@id: "way/4080984",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0283982,
+59.3183919
+],
+[
+18.028223,
+59.3183627
+],
+[
+18.0278529,
+59.3183175
+],
+[
+18.0272636,
+59.3182817
+],
+[
+18.026633,
+59.3184012
+],
+[
+18.0265022,
+59.3184246
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/8019552",
+properties: {
+@id: "way/8019552",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0258623,
+59.3185392
+],
+[
+18.0257544,
+59.3185522
+],
+[
+18.0256042,
+59.3185398
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/23049017",
+properties: {
+@id: "way/23049017",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0258623,
+59.3185392
+],
+[
+18.0265022,
+59.3184246
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/42979531",
+properties: {
+@id: "way/42979531",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.028771,
+59.3173671
+],
+[
+18.0283982,
+59.3183919
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/35280607",
+properties: {
+@id: "way/35280607",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0310077,
+59.3176137
+],
+[
+18.0298829,
+59.3174875
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/42315076",
+properties: {
+@id: "way/42315076",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0324784,
+59.3178602
+],
+[
+18.03263,
+59.3179217
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/42979525",
+properties: {
+@id: "way/42979525",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0341343,
+59.3180689
+],
+[
+18.0354181,
+59.318101
+],
+[
+18.035506,
+59.3181069
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/42979526",
+properties: {
+@id: "way/42979526",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0351837,
+59.3189779
+],
+[
+18.035506,
+59.3181069
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/85292116",
+properties: {
+@id: "way/85292116",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0310077,
+59.3176137
+],
+[
+18.032029,
+59.3177284
+],
+[
+18.0321232,
+59.3177499
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/85292132",
+properties: {
+@id: "way/85292132",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0321232,
+59.3177499
+],
+[
+18.0322746,
+59.3177928
+],
+[
+18.0323429,
+59.3178155
+],
+[
+18.0324784,
+59.3178602
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/185808479",
+properties: {
+@id: "way/185808479",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0341343,
+59.3180689
+],
+[
+18.0340015,
+59.3180896
+],
+[
+18.0329392,
+59.3180424
+],
+[
+18.0327315,
+59.3179888
+],
+[
+18.03263,
+59.3179217
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/15807526",
+properties: {
+@id: "way/15807526",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0298829,
+59.3174875
+],
+[
+18.028771,
+59.3173671
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/42979527",
+properties: {
+@id: "way/42979527",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0351837,
+59.3189779
+],
+[
+18.0363554,
+59.3190829
+],
+[
+18.0372011,
+59.3191604
+],
+[
+18.0392838,
+59.3193645
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/23631046",
+properties: {
+@id: "way/23631046",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0649838,
+59.3138663
+],
+[
+18.0652341,
+59.3133361
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/41568950",
+properties: {
+@id: "way/41568950",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0656361,
+59.3125112
+],
+[
+18.0658571,
+59.3125022
+],
+[
+18.066782,
+59.3126172
+],
+[
+18.0674242,
+59.312697
+],
+[
+18.0680345,
+59.3127775
+],
+[
+18.0681831,
+59.3127948
+],
+[
+18.0684198,
+59.3128378
+],
+[
+18.0685859,
+59.3128684
+],
+[
+18.0694845,
+59.3129897
+],
+[
+18.0708992,
+59.3131655
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/141258079",
+properties: {
+@id: "way/141258079",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0733453,
+59.3141717
+],
+[
+18.0733962,
+59.3140668
+],
+[
+18.0739052,
+59.3130189
+],
+[
+18.0739628,
+59.3129002
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/51864200",
+properties: {
+@id: "way/51864200",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0652341,
+59.3133361
+],
+[
+18.065247,
+59.3133109
+],
+[
+18.0653766,
+59.3130567
+],
+[
+18.0653921,
+59.3130263
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/51864201",
+properties: {
+@id: "way/51864201",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0653921,
+59.3130263
+],
+[
+18.0656361,
+59.3125112
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/5982435",
+properties: {
+@id: "way/5982435",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0713808,
+59.3125384
+],
+[
+18.0715911,
+59.3125923
+],
+[
+18.072079,
+59.3126571
+],
+[
+18.0737346,
+59.3128706
+],
+[
+18.0738948,
+59.3128914
+],
+[
+18.0739628,
+59.3129002
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/42980011",
+properties: {
+@id: "way/42980011",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0708992,
+59.3131655
+],
+[
+18.0709943,
+59.3129782
+],
+[
+18.0711414,
+59.3126389
+],
+[
+18.0711925,
+59.3126044
+],
+[
+18.0712416,
+59.3125713
+],
+[
+18.0713808,
+59.3125384
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/42980009",
+properties: {
+@id: "way/42980009",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0813736,
+59.3151626
+],
+[
+18.0814124,
+59.3150875
+],
+[
+18.0816998,
+59.3145312
+],
+[
+18.081856,
+59.3142287
+],
+[
+18.0820019,
+59.3139463
+],
+[
+18.082329,
+59.3132867
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/42980010",
+properties: {
+@id: "way/42980010",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.082329,
+59.3132867
+],
+[
+18.084698,
+59.3135987
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/4080408",
+properties: {
+@id: "way/4080408",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0950162,
+59.3130784
+],
+[
+18.0952839,
+59.3130403
+],
+[
+18.0957175,
+59.3131297
+],
+[
+18.0962003,
+59.3133206
+],
+[
+18.0966096,
+59.3134448
+],
+[
+18.0969688,
+59.3134888
+],
+[
+18.097334,
+59.3135076
+],
+[
+18.0976458,
+59.3135131
+],
+[
+18.0981377,
+59.3134715
+],
+[
+18.0993048,
+59.313312
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/41514571",
+properties: {
+@id: "way/41514571",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0902182,
+59.3137358
+],
+[
+18.0910848,
+59.3136179
+],
+[
+18.0922045,
+59.3134684
+],
+[
+18.0942364,
+59.3131847
+],
+[
+18.0943333,
+59.3131726
+],
+[
+18.0950162,
+59.3130784
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/31068254",
+properties: {
+@id: "way/31068254",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0953956,
+59.3099594
+],
+[
+18.0955375,
+59.3099456
+],
+[
+18.0959582,
+59.3098857
+],
+[
+18.0970266,
+59.3097335
+],
+[
+18.0976125,
+59.3096501
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/41514576",
+properties: {
+@id: "way/41514576",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0995268,
+59.3132855
+],
+[
+18.0993516,
+59.3128242
+],
+[
+18.0993188,
+59.3127598
+],
+[
+18.0989694,
+59.3121217
+],
+[
+18.0986505,
+59.3115646
+],
+[
+18.0982138,
+59.3107447
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/42501585",
+properties: {
+@id: "way/42501585",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0982138,
+59.3107447
+],
+[
+18.097925,
+59.3102189
+],
+[
+18.0976125,
+59.3096501
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/250434531",
+properties: {
+@id: "way/250434531",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0993048,
+59.313312
+],
+[
+18.0995268,
+59.3132855
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/42979518",
+properties: {
+@id: "way/42979518",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0397985,
+59.3182634
+],
+[
+18.0399918,
+59.3178176
+],
+[
+18.0400078,
+59.3177869
+],
+[
+18.0400971,
+59.3176151
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/35205673",
+properties: {
+@id: "way/35205673",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0432084,
+59.3193867
+],
+[
+18.0435174,
+59.3194881
+],
+[
+18.0439068,
+59.3196319
+],
+[
+18.0440148,
+59.3198002
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/1880625",
+properties: {
+@id: "way/1880625",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0400971,
+59.3176151
+],
+[
+18.0406356,
+59.3176733
+],
+[
+18.0419193,
+59.3178221
+],
+[
+18.0423489,
+59.3178727
+],
+[
+18.0442089,
+59.3180998
+],
+[
+18.0458393,
+59.3182953
+],
+[
+18.0479217,
+59.3185492
+],
+[
+18.0492686,
+59.3187134
+],
+[
+18.0494589,
+59.3187298
+],
+[
+18.0495795,
+59.3187193
+],
+[
+18.0496859,
+59.3186907
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/42979517",
+properties: {
+@id: "way/42979517",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0397985,
+59.3182634
+],
+[
+18.0402904,
+59.3184254
+],
+[
+18.0432084,
+59.3193867
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/250434500",
+properties: {
+@id: "way/250434500",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0392838,
+59.3193645
+],
+[
+18.0418117,
+59.3196021
+],
+[
+18.0440148,
+59.3198002
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/4347361",
+properties: {
+@id: "way/4347361",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0496859,
+59.3186907
+],
+[
+18.0497892,
+59.3186559
+],
+[
+18.0498945,
+59.3186139
+],
+[
+18.0499622,
+59.3185747
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/151083821",
+properties: {
+@id: "way/151083821",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0551362,
+59.3179925
+],
+[
+18.0549236,
+59.3179651
+],
+[
+18.0509033,
+59.3174471
+],
+[
+18.0506395,
+59.3174131
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/151083832",
+properties: {
+@id: "way/151083832",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0506395,
+59.3174131
+],
+[
+18.0505823,
+59.3175217
+],
+[
+18.0503247,
+59.3179965
+],
+[
+18.0502662,
+59.3181275
+],
+[
+18.050078,
+59.3185042
+],
+[
+18.0499622,
+59.3185747
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/24620612",
+properties: {
+@id: "way/24620612",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0598854,
+59.3185718
+],
+[
+18.0599264,
+59.3185156
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/43056027",
+properties: {
+@id: "way/43056027",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0598854,
+59.3185718
+],
+[
+18.0597093,
+59.3185497
+],
+[
+18.0573326,
+59.3182444
+],
+[
+18.0571417,
+59.318226
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/41517906",
+properties: {
+@id: "way/41517906",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0571417,
+59.318226
+],
+[
+18.056939,
+59.3182055
+],
+[
+18.0568969,
+59.3182007
+],
+[
+18.0558609,
+59.3180816
+],
+[
+18.055309,
+59.3180119
+],
+[
+18.0551362,
+59.3179925
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/166994680",
+properties: {
+@id: "way/166994680",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0599264,
+59.3185156
+],
+[
+18.0599622,
+59.3184498
+],
+[
+18.060263,
+59.3178532
+],
+[
+18.060552,
+59.3172454
+],
+[
+18.0607572,
+59.3168413
+],
+[
+18.0609067,
+59.3165469
+],
+[
+18.0612555,
+59.3158395
+],
+[
+18.061581,
+59.3151546
+],
+[
+18.0616676,
+59.3149777
+],
+[
+18.0617952,
+59.3147425
+],
+[
+18.0618579,
+59.314619
+],
+[
+18.0619683,
+59.3143763
+],
+[
+18.0620744,
+59.3141416
+],
+[
+18.0621451,
+59.3140063
+],
+[
+18.0622019,
+59.3139641
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/8019240",
+properties: {
+@id: "way/8019240",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0622019,
+59.3139641
+],
+[
+18.0623252,
+59.313964
+],
+[
+18.064496,
+59.3144083
+],
+[
+18.0646782,
+59.3144549
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/23631047",
+properties: {
+@id: "way/23631047",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0646782,
+59.3144549
+],
+[
+18.0648244,
+59.3141828
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/250434534",
+properties: {
+@id: "way/250434534",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0648244,
+59.3141828
+],
+[
+18.0649838,
+59.3138663
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/146254756",
+properties: {
+@id: "way/146254756",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0733184,
+59.3142382
+],
+[
+18.0733453,
+59.3141717
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/233761073",
+properties: {
+@id: "way/233761073",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.0734334,
+59.3142509
+],
+[
+18.0733184,
+59.3142382
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/136886858",
+properties: {
+@id: "way/136886858",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.081336,
+59.3152382
+],
+[
+18.0811436,
+59.3152145
+],
+[
+18.0797033,
+59.3150368
+],
+[
+18.0795179,
+59.3150163
+],
+[
+18.076625,
+59.3146386
+],
+[
+18.0764669,
+59.314618
+],
+[
+18.0762857,
+59.3145955
+],
+[
+18.073656,
+59.3142755
+],
+[
+18.0734334,
+59.3142509
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/136886859",
+properties: {
+@id: "way/136886859",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.081336,
+59.3152382
+],
+[
+18.0813736,
+59.3151626
+]
+]
+}
+},
+{
+type: "Feature",
+id: "way/43157174",
+properties: {
+@id: "way/43157174",
+@relations: [
+{
+role: "",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "LineString",
+coordinates: [
+[
+18.084698,
+59.3135987
+],
+[
+18.0867152,
+59.3138535
+],
+[
+18.0880191,
+59.3140303
+],
+[
+18.0882731,
+59.3140226
+],
+[
+18.0902182,
+59.3137358
+]
+]
+}
+},
+{
+type: "Feature",
+id: "node/481977094",
+properties: {
+@id: "node/481977094",
+@relations: [
+{
+role: "stop",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "Point",
+coordinates: [
+18.0207412,
+59.317948
+]
+}
+},
+{
+type: "Feature",
+id: "node/540398577",
+properties: {
+@id: "node/540398577",
+@relations: [
+{
+role: "stop",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "Point",
+coordinates: [
+18.0269742,
+59.3184006
+]
+}
+},
+{
+type: "Feature",
+id: "node/540994793",
+properties: {
+@id: "node/540994793",
+@relations: [
+{
+role: "stop",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "Point",
+coordinates: [
+18.0252032,
+59.318489
+]
+}
+},
+{
+type: "Feature",
+id: "node/666042068",
+properties: {
+@id: "node/666042068",
+@relations: [
+{
+role: "stop",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "Point",
+coordinates: [
+18.0331744,
+59.3180827
+]
+}
+},
+{
+type: "Feature",
+id: "node/988980852",
+properties: {
+@id: "node/988980852",
+@relations: [
+{
+role: "stop",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "Point",
+coordinates: [
+18.0303959,
+59.3175887
+]
+}
+},
+{
+type: "Feature",
+id: "node/601212177",
+properties: {
+@id: "node/601212177",
+@relations: [
+{
+role: "stop",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "Point",
+coordinates: [
+18.0730943,
+59.312852
+]
+}
+},
+{
+type: "Feature",
+id: "node/672921325",
+properties: {
+@id: "node/672921325",
+@relations: [
+{
+role: "stop",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "Point",
+coordinates: [
+18.0688753,
+59.3129785
+]
+}
+},
+{
+type: "Feature",
+id: "node/660471766",
+properties: {
+@id: "node/660471766",
+@relations: [
+{
+role: "stop",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "Point",
+coordinates: [
+18.0934962,
+59.3133654
+]
+}
+},
+{
+type: "Feature",
+id: "node/1695199741",
+properties: {
+@id: "node/1695199741",
+@relations: [
+{
+role: "stop",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "Point",
+coordinates: [
+18.0953822,
+59.3101854
+]
+}
+},
+{
+type: "Feature",
+id: "node/1706341693",
+properties: {
+@id: "node/1706341693",
+@relations: [
+{
+role: "stop",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "Point",
+coordinates: [
+18.0978294,
+59.3099387
+]
+}
+},
+{
+type: "Feature",
+id: "node/1706342309",
+properties: {
+@id: "node/1706342309",
+@relations: [
+{
+role: "stop",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "Point",
+coordinates: [
+18.0988284,
+59.3117262
+]
+}
+},
+{
+type: "Feature",
+id: "node/632467553",
+properties: {
+@id: "node/632467553",
+@relations: [
+{
+role: "stop",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "Point",
+coordinates: [
+18.0385429,
+59.3193449
+]
+}
+},
+{
+type: "Feature",
+id: "node/675631545",
+properties: {
+@id: "node/675631545",
+@relations: [
+{
+role: "stop",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "Point",
+coordinates: [
+18.0400429,
+59.3180327
+]
+}
+},
+{
+type: "Feature",
+id: "node/675629934",
+properties: {
+@id: "node/675629934",
+@relations: [
+{
+role: "stop",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "Point",
+coordinates: [
+18.0431492,
+59.3197694
+]
+}
+},
+{
+type: "Feature",
+id: "node/1085498277",
+properties: {
+@id: "node/1085498277",
+@relations: [
+{
+role: "stop",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "Point",
+coordinates: [
+18.0435896,
+59.3180776
+]
+}
+},
+{
+type: "Feature",
+id: "node/675633205",
+properties: {
+@id: "node/675633205",
+@relations: [
+{
+role: "stop",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "Point",
+coordinates: [
+18.0505415,
+59.3178121
+]
+}
+},
+{
+type: "Feature",
+id: "node/1805279123",
+properties: {
+@id: "node/1805279123",
+@relations: [
+{
+role: "stop",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "Point",
+coordinates: [
+18.0544356,
+59.317935
+]
+}
+},
+{
+type: "Feature",
+id: "node/672921284",
+properties: {
+@id: "node/672921284",
+@relations: [
+{
+role: "stop",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "Point",
+coordinates: [
+18.0607318,
+59.3170228
+]
+}
+},
+{
+type: "Feature",
+id: "node/672921304",
+properties: {
+@id: "node/672921304",
+@relations: [
+{
+role: "stop",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "Point",
+coordinates: [
+18.0601789,
+59.3181968
+]
+}
+},
+{
+type: "Feature",
+id: "node/672921327",
+properties: {
+@id: "node/672921327",
+@relations: [
+{
+role: "stop",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "Point",
+coordinates: [
+18.0648507,
+59.3143438
+]
+}
+},
+{
+type: "Feature",
+id: "node/1309284879",
+properties: {
+@id: "node/1309284879",
+@relations: [
+{
+role: "stop",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "Point",
+coordinates: [
+18.0620159,
+59.3144148
+]
+}
+},
+{
+type: "Feature",
+id: "node/1348515154",
+properties: {
+@id: "node/1348515154",
+@relations: [
+{
+role: "stop",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "Point",
+coordinates: [
+18.0733869,
+59.3139125
+]
+}
+},
+{
+type: "Feature",
+id: "node/672977877",
+properties: {
+@id: "node/672977877",
+@relations: [
+{
+role: "stop",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "Point",
+coordinates: [
+18.0806737,
+59.3151962
+]
+}
+},
+{
+type: "Feature",
+id: "node/672977895",
+properties: {
+@id: "node/672977895",
+@relations: [
+{
+role: "stop",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "Point",
+coordinates: [
+18.0749964,
+59.3144785
+]
+}
+},
+{
+type: "Feature",
+id: "node/672977882",
+properties: {
+@id: "node/672977882",
+@relations: [
+{
+role: "stop",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "Point",
+coordinates: [
+18.0823089,
+59.3134727
+]
+}
+},
+{
+type: "Feature",
+id: "node/675127163",
+properties: {
+@id: "node/675127163",
+@relations: [
+{
+role: "stop",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "Point",
+coordinates: [
+18.084077,
+59.3135587
+]
+}
+},
+{
+type: "Feature",
+id: "node/851534006",
+properties: {
+@id: "node/851534006",
+@relations: [
+{
+role: "stop",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "Point",
+coordinates: [
+18.0876529,
+59.3140244
+]
+}
+},
+{
+type: "Feature",
+id: "node/851533624",
+properties: {
+@id: "node/851533624",
+@relations: [
+{
+role: "stop",
+rel: 2227911,
+reltags: {
+from: "Sofia",
+name: "Buss 66: Sofia - Reimersholme",
+network: "SL",
+operator: "Busslink SÃ¶derhallen",
+ref: "66",
+route: "bus",
+to: "Reimersholme",
+type: "route"
+}
+}
+]
+},
+geometry: {
+type: "Point",
+coordinates: [
+18.0906077,
+59.3137451
+]
+}
+}
+]
+}
